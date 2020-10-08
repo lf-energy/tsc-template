@@ -1,8 +1,8 @@
-*NOTE: This document is intended to provide an example governance structure for any Open Mainframe Project project to consider as a starting point. All projects hosted by Open Mainframe Project are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
+*NOTE: This document is intended to provide an example governance structure for any LF Energy Foundation project to consider as a starting point. All projects hosted by LF Energy Foundation are not bound by these governance polices, but in absence of any prior governance structure should consider this as a recommended structure*
 
 # Overview
 
-This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affilation. Participants are bound to the project's [Code of Conduct](code_of_conduct.md).
+This project aims to be governed in a transparent, accessible way for the benefit of the community. All participation in this project is open and not bound to corporate affilation. Participants are bound to the project's [Code of Conduct].
 
 # Project roles
 
@@ -12,7 +12,7 @@ The contributor role is the starting role for anyone participating in the projec
 
 # Process for becoming a contributor
 
-* Review the CONTRIBUTING.md guidelines to ensure your contribution is inline with the project's coding and styling guidelines.
+* Review the [Contribution Guidelines]to ensure your contribution is inline with the project's coding and styling guidelines.
 * Submit your code as a PR with the appropriate DCO signoff
 * Have your submission approved by the committer(s) and merged into the codebase.
 
@@ -23,7 +23,7 @@ The committer role enables the contributor to commit code directly to the reposi
 ### Process for becoming a committer
 
 * Show your experience with the codebase through contributions and engagement on the community channels.
-* Request to become a committer. To do this, create a new pull request that adds your name and details to the COMMITTERS file and request existing committers to approve.
+* Request to become a committer. To do this, create a new pull request that adds your name and details to the [Committers File] file and request existing committers to approve.
 * After the majority of committers approve you, merge in the PR. Be sure to tag the whomever is managing the GitHub permissions to update the committers team in GitHub.
 
 ### Committer responsibilities
@@ -57,10 +57,14 @@ be resolved by voting. The voting process is a simple majority in which each com
 
 # Communication
 
-This project, just like all of open source, is a global community. In addition to the [Code of Conduct](code_of_conduct.md), this project will:
+This project, just like all of open source, is a global community. In addition to the [Code of Conduct], this project will:
 
 * Keep all communucation on open channels ( mailing list, forums, chat ).
 * Be respectful of time and language differences between community members ( such as scheduling meetings, email/issue responsiveness, etc ).
 * Ensure tools are able to be used by community members regardless of their region.
 
 If you have concerns about communication challenges for this project, please contact the committers.
+
+[Code of Conduct]: CODE_OF_CONDUCT.md
+[Committers File]: COMMITTERS.csv
+[Contribution Guidelines]: CONTRIBUTING.md
