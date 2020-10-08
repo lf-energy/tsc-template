@@ -5,7 +5,7 @@ _Use this file to detail how to make a contribution to the project. The structur
 Thank you for your interest in contributing to PROJECT NAME. This document explains our contribution process and procedures:
 
 * [Getting Help](#Getting-Help)
-* [How to Contribute a Bug Fix or Change](#How-to-Contribute-a Bug Fix or Change)
+* [How to Contribute a Bug Fix or Change](#How-to-Contribute-a-Bug-Fix-or-Change)
 * [Development Workflow](#Development-Workflow)
 * [Coding Style](#Coding-Style)
 
@@ -51,5 +51,5 @@ Project committers will review the contribution in a timely manner, and advise o
 
 [governance policies]: GOVERNANCE.md
 [Technical Charter]: tsc/CHARTER.md
-[copyright and license headers]: https://github.com/lf-energy/tac/processes/contributing.md#Copyright-Notices
-[Developer Certificate of Origin signoff]: https://github.com/lf-energy/tac/processes/contributing.md#Developer-Certificate-of-Origin
+[copyright and license headers]: https://github.com/lf-energy/tac/blob/main/process/contribution_guidelines.md#license
+[Developer Certificate of Origin signoff]: https://github.com/lf-energy/tac/blob/main/process/contribution_guidelines.md#contribution-sign-off
