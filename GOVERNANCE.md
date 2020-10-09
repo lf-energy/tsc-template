@@ -12,7 +12,7 @@ The contributor role is the starting role for anyone participating in the projec
 
 # Process for becoming a contributor
 
-* Review the [Contribution Guidelines]to ensure your contribution is inline with the project's coding and styling guidelines.
+* Review the [Contribution Guidelines] to ensure your contribution is inline with the project's coding and styling guidelines.
 * Submit your code as a PR with the appropriate DCO signoff
 * Have your submission approved by the committer(s) and merged into the codebase.
 
