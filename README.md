@@ -26,8 +26,7 @@ _Provide build instructions here or point to an BUILD.md file_
 You can connect with the community in a variety of ways...
 
 - [LINK TO MAILING LIST](https://lists.lfenergy.org/g/xxxx-discussion)
-- [#PROJECT NAME channel on Open Mainframe Project Slack](https://slack.lfenergy.org)
-- ['PROJECT NAME' category on Open Mainframe Project Community Forums](https://community.lfenergy.org/)
+- [#PROJECT NAME channel on LF Energy Slack](https://slack.lfenergy.org)
 
 ## Contributing
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
