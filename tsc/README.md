@@ -7,11 +7,10 @@ This directory contains the meeting notes, process documentations, and other mat
 This is a checklist for TSC's to review as part of the intake process. The TSC should review this entire list during the kickoff meeting. For anything outstanding, create an [issue](../issues) to track and link to it in the list
 
 - Codebase
-  - [ ] Project license identified and exists in root directory of all repos ( named [LICENSE](../LICENSE)
-  
+	- [ ] Project license identified and exists in root directory of all repos ( named [LICENSE](../LICENSE)
 - TSC Record Keeping
-  - [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
-  - [ ] Copy this checklist to the above location for tracking
+	- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
+	- [ ] Copy this checklist to the above location for tracking
 - Acceptance Criteria
 	- Have an open and documented technical governance, including:
 		- [ ] A [LICENSE](../LICENSE) file in every code repository, with the license chosen an [OSI-approved license](https://opensource.org/licenses).
@@ -66,7 +65,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
  	- Target end-users.
  	- Identification of any regulatory or standards body requirements for deployment, and plans for implementation.
  	- Plans for growth of project contributors and committers to support the growth plan.
- 	       - Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
+		- Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
   - [ ] Identification of any infrastructure resources needed to fulfill the growth plan.
   - [ ] Presentation to the TAC of the project’s growth, technical governance, and growth plan.
   - [ ] Receive the affirmative majority vote of the TAC and Governing Board
@@ -80,4 +79,3 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
   - [ ] Receive a ⅔ majority vote from the TAC and majority vote of the Governing Board to move to Graduated stage. 
 
 [service desk request]: https://github.com/lf-energy/foundation/issues/new/choose
-[tac guidelines]: https://github.com/lf-energy/tac 
