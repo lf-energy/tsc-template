@@ -20,7 +20,7 @@
 Or in your local time:
 * https://www.timeanddate.com/worldclock/?iso=<%= date.toFormat("yyyy-MM-dd'T'HH:mm:ss") %>
 
-All meetings are listed on the project calendar at https://lists.openmainframeproject.org/calendar, subject to the mailing lists you are subscribed to.
+All meetings are listed on the project calendar at https://lists.lfenergy.org/calendar, subject to the mailing lists you are subscribed to.
 
 ### Conference call details
 
@@ -43,7 +43,6 @@ _fill in voting members as a checklist_
 
 Extracted from **<%= agendaLabel %>** labelled issues and pull requests from **<%= owner %>/<%= repo %>** prior to the meeting.
 
-* Project updates ( list at https://github.com/openmainframeproject/tac#tac-projects )
 <%= agendaIssues.map((i) => {
   return `* ${i.title} [#${i.number}](${i.html_url})`
 }).join('\n') %>
