@@ -68,16 +68,16 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 		- Identification of any regulatory or standards body requirements for deployment, and plans for implementation.
 		- Plans for growth of project contributors and committers to support the growth plan.
 			- Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
-  - [ ] Identification of any infrastructure resources needed to fulfill the growth plan.
-  - [ ] Presentation to the TAC of the project’s growth, technical governance, and growth plan.
-  - [ ] Receive the affirmative majority vote of the TAC and Governing Board
+	- [ ] Identification of any infrastructure resources needed to fulfill the growth plan.
+	- [ ] Presentation to the TAC of the project’s growth, technical governance, and growth plan.
+	- [ ] Receive the affirmative majority vote of the TAC and Governing Board
 - Graduated Project requirements	
-  - [ ] Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
-  - [ ] Have fulfilled or are on track to complete the growth plan defined in the Early Adoption stage proposal.
-  - [ ] Have a healthy number of contributions or committers from at least three organizations, with any one organization not composing more than 50% of the contributions or committers. Committers must be identified within the project in a COMMITTERS file.
-  - [ ] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
-  - [ ] Achievement of the Core Infrastructure Initiative Best Practices badge at the Gold level.
-  - [ ] Present to the TAC and the Governing Board on the fulfillment of these requirements.
-  - [ ] Receive a ⅔ majority vote from the TAC and majority vote of the Governing Board to move to Graduated stage. 
+  	- [ ] Have a defined governing body of at least 5 or more members (owners and core maintainers), of which no more than 1/3 is affiliated with the same employer. In the case there are 5 governing members, 2 may be from the same employer.
+	- [ ] Have fulfilled or are on track to complete the growth plan defined in the Early Adoption stage proposal.
+	- [ ] Have a healthy number of contributions or committers from at least three organizations, with any one organization not composing more than 50% of the contributions or committers. Committers must be identified within the project in a COMMITTERS file.
+	- [ ] Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website).
+	- [ ] Achievement of the Core Infrastructure Initiative Best Practices badge at the Gold level.
+	- [ ] Present to the TAC and the Governing Board on the fulfillment of these requirements.
+	- [ ] Receive a ⅔ majority vote from the TAC and majority vote of the Governing Board to move to Graduated stage. 
 
 [service desk request]: https://github.com/lf-energy/foundation/issues/new/choose
