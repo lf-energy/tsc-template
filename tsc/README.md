@@ -7,7 +7,7 @@ This directory contains the meeting notes, process documentations, and other mat
 This is a checklist for TSC's to review as part of the intake process. The TSC should review this entire list during the kickoff meeting. For anything outstanding, create an [issue](../issues) to track and link to it in the list
 
 - Codebase
-	- [ ] Project license identified and exists in root directory of all repos ( named [LICENSE](../LICENSE)
+	- [ ] Project license identified and exists in root directory of all repos ( named [LICENSE](../LICENSE) )
 - TSC Record Keeping
 	- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
 	- [ ] Copy this checklist to the above location for tracking
