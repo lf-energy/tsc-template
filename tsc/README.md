@@ -37,11 +37,11 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 			- [ ] Developer Certificate of Origin past commit signoff done and DCO Probot enabled.
 		- [ ] Issue/feature tracker (JIRA, GitHub issues)	and LFE Staff is an administrator.
 		- Collaboration tools 
-			- [ ] Mailing lists - one of: 
+			- Mailing lists - one of ( refer to [guidelines](https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Mailinglists): 
 				- [ ] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
 				- [ ] Move to https://lists.aswf.io ( create [service desk request] to setup/transfer )
-			- [ ] Establish project calendar on https://lists.aswf.i
-			- [ ] Slack or IRC ( create [service desk request] to setup Slack project channel )
+			- [ ] Establish project calendar on https://lists.aswf.io ( refer to [guidelines](https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars)
+			- [ ] Slack or IRC ( create [service desk request] to setup Slack project channel - refer to [guidelines]( https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Slack) )
 		- [ ] Website ( if needed )
 		- [ ] CI/build environment ( if needed )
 		- [ ] Add project to [LFX Insights](https://insights.lfx.linuxfoundation.org/) ( create [service desk request] to trigger )
@@ -49,23 +49,25 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- Project assets
 		- [ ] Domain name ( create [service desk request] to create/transfer )
 		- [ ] Social media accounts ( create [service desk request] to setup/transfer - if needed )
-		- [ ] Logo(s)	( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
+		- [ ] Logo(s) ( create [service desk request] to create ); will be added to [artwork repo](https://artwork.lfenergy.org) in SVG and PNG format and color/black/white )
 	- Outreach
 		- [ ] New project annoucement done ( create [service desk request] to trigger )
-		- [ ] Project added to LF Energy website and LF Energy landscape
+		- [ ] Project added to LF Energy properties
+			- [ ] Website ( https://lfenergy.org/projects )
+			- [ ] LF Energy landscape ( https://l.lfenergy.org )
 - Early Adoption requirements ( see https://wiki.lfenergy.org/display/HOME/Technical+Project+Lifecycle#TechnicalProjectLifecycle-EarlyAdoption )
   - Demonstrate growth in the project’s community, including
- 	- [ ] Growth in the number of commits to the project, number of project committers, and organizational diversity of contributions and committers.
- 	- [ ] Production or planned production use of the project by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+		- [ ] Growth in the number of commits to the project, number of project committers, and organizational diversity of contributions and committers.
+		- [ ] Production or planned production use of the project by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
   - Technical Governance of the project is operational, as measured by:
- 	- [ ] A Technical Steering Committee with at least 5 members and a chairperson elected by the members, holding regular open meetings.
- 	- [ ] Achievement of the Core Infrastructure Initiative’s Best Practice badge at the ‘Passing’ Level ( apply at https://bestpractices.coreinfrastructure.org/en )
-  - [ ] Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC. This plan should address the following points:
- 	- Release plans for the next 18 months.
- 	- Target end-users.
- 	- Identification of any regulatory or standards body requirements for deployment, and plans for implementation.
- 	- Plans for growth of project contributors and committers to support the growth plan.
-		- Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
+		- [ ] A Technical Steering Committee with at least 5 members and a chairperson elected by the members, holding regular open meetings.
+		- [ ] Achievement of the Core Infrastructure Initiative’s Best Practice badge at the ‘Passing’ Level ( apply at https://bestpractices.coreinfrastructure.org/en )
+	- [ ] Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC. This plan should address the following points:
+		- Release plans for the next 18 months.
+		- Target end-users.
+		- Identification of any regulatory or standards body requirements for deployment, and plans for implementation.
+		- Plans for growth of project contributors and committers to support the growth plan.
+			- Since these metrics can vary significantly depending on the type, scope and size of a project, the TAC has final judgement over the level of activity that is adequate to meet these criteria.
   - [ ] Identification of any infrastructure resources needed to fulfill the growth plan.
   - [ ] Presentation to the TAC of the project’s growth, technical governance, and growth plan.
   - [ ] Receive the affirmative majority vote of the TAC and Governing Board
