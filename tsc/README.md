@@ -6,11 +6,7 @@ This directory contains the meeting notes, process documentations, and other mat
 
 This is a checklist for TSC's to review as part of the intake process. The TSC should review this entire list during the kickoff meeting. For anything outstanding, create an [issue](../issues) to track and link to it in the list
 
-- Codebase
-	- [ ] Project license identified and exists in root directory of all repos ( named [LICENSE](../LICENSE) )
-- TSC Record Keeping
-	- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
-	- [ ] Copy this checklist to the above location for tracking
+- [ ] Copy this checklist to a project specific location for tracking
 - Acceptance Criteria
 	- Have an open and documented technical governance, including:
 		- [ ] A [LICENSE](../LICENSE) file in every code repository, with the license chosen an [OSI-approved license](https://opensource.org/licenses).
@@ -27,6 +23,7 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 	- [ ] Receive the affirmative majority vote of the TAC.
 - New Project Intake
 	- Establish TSC
+		- [ ] Location for TSC documents and meeting notes ( recommendation is ```tsc``` directory in main repo, and then ```meetings``` under the ```tsc``` directory )
 		- [ ] TSC members identified, added to [GOVERNANCE.md](../GOVERNANCE.md).
 		- [ ] First TSC meeting held ( [agenda](meetings/initial-meeting-agenda.md) )
 		- [ ] Elect TSC Chairperson
