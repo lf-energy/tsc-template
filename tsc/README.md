@@ -57,11 +57,11 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 			- [ ] LF Energy landscape ( https://l.lfenergy.org )
 - Early Adoption requirements ( see https://wiki.lfenergy.org/display/HOME/Technical+Project+Lifecycle#TechnicalProjectLifecycle-EarlyAdoption )
   - Demonstrate growth in the project’s community, including
-		- [ ] Growth in the number of commits to the project, number of project committers, and organizational diversity of contributions and committers.
-		- [ ] Production or planned production use of the project by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
+	- [ ] Growth in the number of commits to the project, number of project committers, and organizational diversity of contributions and committers.
+	- [ ] Production or planned production use of the project by at least two independent end users which, in the TAC’s judgment, are of adequate quality and scope.
   - Technical Governance of the project is operational, as measured by:
-		- [ ] A Technical Steering Committee with at least 5 members and a chairperson elected by the members, holding regular open meetings.
-		- [ ] Achievement of the Core Infrastructure Initiative’s Best Practice badge at the ‘Passing’ Level ( apply at https://bestpractices.coreinfrastructure.org/en )
+	- [ ] A Technical Steering Committee with at least 5 members and a chairperson elected by the members, holding regular open meetings.
+	- [ ] Achievement of the Core Infrastructure Initiative’s Best Practice badge at the ‘Passing’ Level ( apply at https://bestpractices.coreinfrastructure.org/en )
 	- [ ] Development of a growth plan, to be done in conjunction with their project mentor(s) at the TAC. This plan should address the following points:
 		- Release plans for the next 18 months.
 		- Target end-users.
