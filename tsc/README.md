@@ -38,8 +38,8 @@ This is a checklist for TSC's to review as part of the intake process. The TSC s
 		- Collaboration tools 
 			- Mailing lists - one of ( refer to [guidelines](https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Mailinglists): 
 				- [ ] Create new list(s) ( default is -discussion@ and -private@ - create [service desk request] to provision ) 
-				- [ ] Move to https://lists.lfenergy.io ( create [service desk request] to setup/transfer )
-			- [ ] Establish project calendar on https://lists.aswf.io ( refer to [guidelines](https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars)
+				- [ ] Move to https://lists.lfenergy.org ( create [service desk request] to setup/transfer )
+			- [ ] Establish project calendar on https://lists.lfenergy.org ( refer to [guidelines] (https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Calendars) )
 			- [ ] Slack or IRC ( create [service desk request] to setup Slack project channel - refer to [guidelines]( https://wiki.lfenergy.org/display/HOME/Project+Collaboration+Tools#ProjectCollaborationTools-Slack) )
 		- [ ] Website ( if needed )
 		- [ ] CI/build environment ( if needed )
